@@ -1,0 +1,9 @@
+Steps to push file to Git Hub Repo
+1 create a file in C drive under the repo name
+2 add content and save and close the .txt file
+3 open BASH and follow the steps in the same order
+    1. git Status
+    2.git add <FileName.txt>
+    3.git commit -m <"Add the pretext comments here">
+    4.git push
+4 go to the github repository and check the file pushed to git under the repository
